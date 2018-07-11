@@ -38,4 +38,5 @@ puts first_student_by_index
 puts fourth_student_by_index
 puts last_student_by_index
 puts first_student_by_method
-puts
+puts last_student_by_method
+puts first_second_and_third_students
