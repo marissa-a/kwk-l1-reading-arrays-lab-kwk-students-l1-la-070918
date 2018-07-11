@@ -9,7 +9,6 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
-  puts STUDENT_NAMES.first 
 end
 puts STUDENT_NAMES.first
 
