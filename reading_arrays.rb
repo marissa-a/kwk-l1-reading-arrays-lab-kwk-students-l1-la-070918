@@ -10,7 +10,7 @@ STUDENT_NAMES = [
 def first_student_by_index
   student_names.first
 end
-
+puts STUDENT_NAMES
 
 def fourth_student_by_index
   
